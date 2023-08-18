@@ -256,6 +256,9 @@ files:
         }
     }
   learner_created: false
+- name: src/blockchain/Blockchain.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/5414#comment
 status: Failed
 record: 1
